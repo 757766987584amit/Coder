@@ -61,7 +61,7 @@ input:checked ~ .menu ul:hover{
 }
 input:checked ~ .menu ul{
      margin-left:5px;
-     gap:30px;
+     gap:35px;
 }
 .menu{
     width: 200px;
